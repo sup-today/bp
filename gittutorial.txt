@@ -1,0 +1,24 @@
+1) git директории проека!
+2) git init - инициализируем git в master папке
+
+https://www.codeschool.com
+max@geted.ru
+getviki - логин
+getliki96 - pas
+3) git status - смотрим состояние
+untracked - файлв за которыми не ведется слежение.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rm .git - удаление git из папки
